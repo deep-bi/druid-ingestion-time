@@ -15,7 +15,7 @@
   <properties>
     <maven.compiler.release>11</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <druid.version>30.0.0</druid.version>
+    <druid.version>33.0.0</druid.version>
     <junit.version>5.9.3</junit.version>
   </properties>
 
