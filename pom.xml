@@ -6,7 +6,7 @@
 
   <groupId>bi.deep</groupId>
   <artifactId>druid-ingestion-time</artifactId>
-  <version>34.0.0</version>
+  <version>35.0.1</version>
   <packaging>jar</packaging>
 
   <name>Druid Ingestion Time</name>
@@ -15,7 +15,7 @@
   <properties>
     <maven.compiler.release>11</maven.compiler.release>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <druid.version>34.0.0</druid.version>
+    <druid.version>35.0.1</druid.version>
     <junit.version>5.9.3</junit.version>
   </properties>
 
